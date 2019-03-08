@@ -3979,7 +3979,10 @@ input, select, textarea {
   
   /* Custom Styles */
 
-  
+
+  p{
+  	font-size: 32px;
+  }
 
 
 
